@@ -1,0 +1,32 @@
+* {
+  background-color: #1E2A38 !important;
+  color: #EBCB8B !important;
+  font-family: "JetBrainsMono Nerd Font", sans-serif !important;
+}
+
+*:not([style*="background-color: transparent"]) {
+  background-color: #1e2a38 !important;
+}
+
+*:not([style*="background-image"]) {
+  background-color: #1e2a38 !important;
+}
+
+html, body, ytd-app, ytd-page-manager, ytd-watch-flexy {
+  background-color: #1e2a38 !important;
+  color: #EBCB8B !important;
+}
+
+ytd-thumbnail, .style-scope, .video-stream {
+  background-color: transparent !important;
+}
+
+body, .sidebar, .chat-input, .chat-container {
+  background-color: #1e2a38 !important;
+  color: #EBCB8B !important;
+}
+
+input, textarea, .header, .sidebar  * {
+  background-color: transparent !important;
+}
+
